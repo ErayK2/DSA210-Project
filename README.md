@@ -1,1 +1,21 @@
 # DSA210-Project
+Sabanci University DSA210 Introduction to Data Science Course Fall 2024-2025 Term Project.
+This project will be an analysis on my own youtube history.
+
+# Idea, Motivation and Prediction 
+
+  Idea: To analyze the change of music-video rates according to periods by analyzing my Youtube history.
+  
+  Motivation: I use YouTube as a means of listening to music. I also use YouTube to watch videos in addition to listening to music.
+  I usually listen to music while working on something. These are studying, working on a project, doing homework, etc. Therefore, I want to analyze it to see the music-video ratio between the period when I am busy (exam period, project periods) and the period when I am less busy. 
+  
+  Prediction: Since most of my time is spent studying before the exams and my free time decreases, I expect the rate of music to increase noticeably before the exams, as well as the rate of videos to decrease, and after the exam, I expect the rate of music to decrease significantly and the rate of videos to increase.
+
+# Fikir, Motivasyon ve Tahmin 
+
+  Fikir: Youtube geçmişimi analiz ederek müzik-video oranlarının dönemlere göre değişimini analiz etmek.
+  
+  Motivasyon: Müzik dinleme aracı olarak youtube'u kullanırım. Aynı zamanda youtube'u müzik dinlemenin dışında videolarda izlemek içinde kullanıyorum.
+  Müziği genellikle bir şey üzerinde çalışırken dinlerim. Bunlar ders çalışmak, proje üzerinde çalışmak, ödev yapmak vs. Bundan dolayı meşgul olduğum dönem ( sınav dönemi,   proje dönemleri) ve daha az meşgul olduğum dönem arasındaki müzik-video oranını görmek için analiz etmek istiyorum. 
+  
+  Tahmin: Sınavların öncesinde zamanımın çoğu çalışarak geçtiğinden ve boş zamanımın azalmasından dolayı sınavların öncesinde müzik oranının gözle görülür bir şekilde artmasını bunun yanında video oranının azalmasını, sınavdan sonrada müzik oranının ciddi bir şekilde azalmasını ve video oranının artmasını bekliyorum.
