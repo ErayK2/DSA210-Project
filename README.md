@@ -1,15 +1,12 @@
 # DSA210-Project
 Sabanci University DSA210 Introduction to Data Science Course Fall 2024-2025 Term Project.
-This project will be an analysis on my own youtube history.
+This project will be an analysis on my own spending habit.
 
-# Idea, Motivation and Prediction 
+# IDEA
+This project will focus on analyzing my expenditures over different periods. I will combine credit card transactions and Soliclub card data (to include cafeteria expenses) for a comprehensive analysis. To make the analysis more understandable, I plan to categorize the expenses into specific groups: cafeteria (food), grocery (local and online markets), subscriptions (e.g., Spotify, Amazon Prime), travel (e.g., flights, trains, metro fares), online shopping, and online food delivery.
 
-  Idea: To analyze the change of music-video rates according to periods by analyzing my Youtube history.
-  
-  Motivation: I use YouTube as a means of listening to music. I also use YouTube to watch videos in addition to listening to music.
-  I usually listen to music while working on something. These are studying, working on a project, doing homework, etc. Therefore, I want to analyze it to see the music-video ratio between the period when I am busy (exam period, project periods) and the period when I am less busy. 
-  
-  Prediction: Since most of my time is spent studying before the exams and my free time decreases, I expect the rate of music to increase noticeably before the exams, as well as the rate of videos to decrease, and after the exam, I expect the rate of music to decrease significantly and the rate of videos to increase.
-  
-# Plan
-I will retrieve my YouTube history data via Google Takeout. Then, from this data, I will get the data in the time range I need. Finally, I will find the music-video ratio between the periods when I am busy and the periods when I am less busy.
+# MOTIVATION
+The biggest motivation for this project is to understand the impact of exams on my life. I want to see how my spending patterns change during these periods (when I am busier and more stressed) and identify which types of expenses are most affected.
+
+# PREDICTION
+I believe that happiness has a significant impact on spending habits. For this reason, I think my expenditures decrease to a minimum, especially 1-2 days before exams, then increase after the exams, and rise even further once the exam period is over. I attribute this to the fact that during stressful and unhappy times, my consumption of meals and snacks tends to decrease. Additionally, since my number of trips off-campus drops significantly during these periods, I expect this to be reflected in my expenses. I'm curious to analyze the extent of these changes.
