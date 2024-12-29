@@ -9,3 +9,8 @@ The biggest motivation for this project is to understand the impact of exams on 
 
 # PREDICTION
 I believe that happiness has a significant impact on spending habits. For this reason, I think my expenditures decrease to a minimum, especially 1-2 days before exams, then increase after the exams, and rise even further once the exam period is over. I attribute this to the fact that during stressful and unhappy times, my consumption of meals and snacks tends to decrease. Additionally, since my number of trips off-campus drops significantly during these periods, I expect this to be reflected in my expenses. I'm curious to analyze the extent of these changes.I am particularly curious to measure the extent of these changes and analyze how closely they correspond to my emotional state at different stages of the exam period. By exploring the relationship between my happiness levels, stress, and spending habits, I hope to gain valuable insight into the psychological factors that influence financial behavior.
+
+# HOW DID I GET THE DATA
+I received the credit card statement in Excel from the bank application. To make this Excel file the way I wanted, I used the code from Excel_data_organizing.ipynb, which I also added to github. Thus, I obtained an Excel file that is both more understandable, organized and analyzable.
+
+I only entered the amazon subscription manually in the subscription section, the reason for this was that the subscription looked like shopping and confused it with amazon, which is online shopping. I also manually entered food (cafeteria) data at the end of each day.
