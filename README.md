@@ -14,3 +14,16 @@ I believe that happiness has a significant impact on spending habits. For this r
 I received the credit card statement in Excel from the bank application. To make this Excel file the way I wanted, I used the code from Excel_data_organizing.ipynb, which I also added to github. Thus, I obtained an Excel file that is both more understandable, organized and analyzable.
 
 I only entered the amazon subscription manually in the subscription section, the reason for this was that the subscription looked like shopping and confused it with amazon, which is online shopping. I also manually entered food (cafeteria) data at the end of each day.
+
+# WHAT I LEARNED ABOUT MYSELF WİTH THIS PROJECT
+
+I realized that I was going through the same cycle after every exam period. The feeling of relief after stressful days also brings with it uncontrolled spending. After the exams, I noticed that my expenses increased significantly (especially online food and shopping). I think this increase is mostly uncontrolled and unplanned. I find that these expenses, which I usually make for the purpose of relieving stress or rewarding myself, are sometimes unnecessary and harm my own economy.
+
+Realizing this situation was an important step for me. I decided to review my spending habits in order to better manage my own financial situation and develop savings habits in the long term. In particular, I am thinking of applying these steps:
+
+1. Awareness: I will regularly analyze my spending habits and identify where I spend unnecessary expenses.
+
+2. Understanding Myself: I will try to understand the emotions that trigger my spending. Finding out what is at the root of my spending out of stress or reward will be the first step in breaking this cycle.
+
+3. Spending thoughtfully: Before spending, I will ask myself, "Is this really necessary?" I think this simple step will be an effective method to reduce unnecessary expenses and become a conscious consumer.
+
