@@ -2,7 +2,9 @@
 Sabanci University DSA210 Introduction to Data Science Course Fall 2024-2025 Term Project.
 This project will be an analysis on my own spending habit. 
 
-I also prepared a powerpoint presentation, don't forget to take a look. In that presentation, you can find all my analyzes and comments about the analyses, things I could have done better in this project, and my comments about myself after the analyses. Additionally, the project report is included in the presentation.
+I also prepared a powerpoint presentation, don't forget to take a look. In that presentation, you can find all my analyzes and comments about the analyses, things I could have done better in this project, and my comments about myself after the analyses. 
+
+Additionally, the project report is included in the presentation.
 
 # IDEA
 This project will focus on analyzing my expenditures over different periods. I will combine credit card transactions for a comprehensive analysis. To make the analysis more organized and understandable, I plan to separate my expenses into specific and meaningful groups. These categories will include cafeteria (food) to reflect meals purchased on campus, market to cover spending at both local markets and online supermarkets, and subscriptions to services like Spotify, Amazon Prime, and other recurring payments. Additionally, I will analyze travel expenses, which include flights, train tickets, and subway fares, which may fluctuate depending on my schedule and commitments. Other categories will include online shopping, which includes purchases made through e-commerce platforms, and online food delivery, which reflects meals ordered from apps or websites in times when convenience is a priority.
