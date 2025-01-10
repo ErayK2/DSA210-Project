@@ -1,7 +1,7 @@
 # DSA210-Project
 Sabancı University DSA210 Introduction to Data Science Course, Fall 2024-2025 Term Project: Analysis of Personal Spending Habits. This project will focus on researching my own spending patterns to gain insight and develop actionable recommendations.
 
-I also prepared a powerpoint presentation, don't forget to take a look. In that presentation, you can find all my analyzes and comments about the analyses, things I could have done better in this project,my comments about myself after the analyses, findings about project, source of my data and comment about limitations and future works. 
+I also prepared a powerpoint presentation, don't forget to take a look. In that presentation, you can find all my analyzes and comments about the analyses, things I could have done better in this project,my comments about myself after the analyses, findings about project, source of my data, comment about limitations and future works and my motivation, ideas and predictions in this project. 
 
 Additionally, the project report is included in the presentation.
 
